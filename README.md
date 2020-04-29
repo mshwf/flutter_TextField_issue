@@ -11,6 +11,7 @@ type any text in the text field,
 naviagate away from this screen or turn off the display.
 
 the data is lost
+
 <img src="https://i.stack.imgur.com/lhxfH.gif"/>
 
 https://stackoverflow.com/questions/61506546/textfields-text-is-reset-after-screen-goes-off
