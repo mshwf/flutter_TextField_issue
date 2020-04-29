@@ -1,6 +1,6 @@
-# text_issue_2
+# textfield_issue
 
-A new Flutter project.
+Two branches: master that has the issue, and the fixed branch
 
 ## master branch
 
