@@ -1,16 +1,22 @@
-# text_issue_2
+# textfield_issue
 
-A new Flutter project.
+Two branches: master that has the issue, and the fixed branch
 
-## Getting Started
+## master branch
 
-This project is a starting point for a Flutter application.
+run it
 
-A few resources to get you started if this is your first Flutter project:
+type any text in the text field, 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+naviagate away from this screen or turn off the display.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+the data is lost
+
+<img src="https://i.stack.imgur.com/lhxfH.gif"/>
+
+https://stackoverflow.com/questions/61506546/textfields-text-is-reset-after-screen-goes-off
+
+## fixed branch
+no issue
+
+fixed with replacing the android folder with another android folder of an older Flutter project
