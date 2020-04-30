@@ -1,8 +1,8 @@
-# textfield_issue (repro of https://github.com/flutter/flutter/issues/55994)
+### textfield_issue (repro of https://github.com/flutter/flutter/issues/55994)
 
 Two branches: master that has the issue, and the fixed branch
 
-## master branch
+### master branch
 
 run it
 
@@ -16,7 +16,7 @@ the data is lost
 
 https://stackoverflow.com/questions/61506546/textfields-text-is-reset-after-screen-goes-off
 
-## fixed branch
+### fixed branch
 no issue
 
 fixed with replacing the android folder with another android folder of an older Flutter project
